@@ -1,2 +1,2 @@
 #!/bin/bash
-export PATH=$PATH:/alias
+PATH=$PATH:/action
